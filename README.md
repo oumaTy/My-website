@@ -1,5 +1,3 @@
-### **README Translation (English)**  
-
 ### **Description**  
 These are the first three static web pages I ever wrote. You can customize them and give them as a gift to your friends, your significant other, a friend who stays a friend after receiving it, or a friend who becomes something more after receiving it. 😂  
 
@@ -131,20 +129,6 @@ You’ll need your own cloud server. There are many deployment methods, but I re
 
 ### **Important Notes**  
 🚀 **Use Google Chrome for the best experience!**  
-📱 **No mobile version available yet!**  
-
----
-
-### **Other Issues**  
-If you have any questions, email me at **guoxiaofeng_2015@163.com**.  
-If I receive common questions, I’ll update this README with more details.  
-
----
-
-### **Future Development Plans**  
-- Improve the **Memories** page layout to fit widescreen displays.  
-- Ensure **browser compatibility** across different devices.  
-- Optimize the site’s **mobile experience**.  
-- Implement **dynamic content generation** for the Memories module.  
+📱 **No mobile version available yet!**   
 
 These improvements will be made whenever I have free time—stay tuned! 🎉
